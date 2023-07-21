@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notes.github.io/static/css/main.97d4ce7e.css",
+    "main.js": "/Notes.github.io/static/js/main.6167f7fe.js",
+    "index.html": "/Notes.github.io/index.html",
+    "main.97d4ce7e.css.map": "/Notes.github.io/static/css/main.97d4ce7e.css.map",
+    "main.6167f7fe.js.map": "/Notes.github.io/static/js/main.6167f7fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d4ce7e.css",
+    "static/js/main.6167f7fe.js"
+  ]
+}
